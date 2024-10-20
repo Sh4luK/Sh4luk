@@ -4,7 +4,7 @@ I am not a king, i am not a god, i am... FÁBIO, I AM A GAME DEVELEPER.
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="40" height="40" />
 
 ##           Skill diff languages
-![faker-t1](https://github.com/user-attachments/assets/0fea224f-6d0a-4c30-89c7-5b6e40a53e65)
+<div class="tenor-gif-embed" data-postid="23674322" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/lol-wild-rift-mastery7-gif-23674322">Lol Wild Rift Sticker</a>from <a href="https://tenor.com/search/lol-stickers">Lol Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" width="40" height="40" />
 
