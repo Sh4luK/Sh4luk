@@ -3,10 +3,7 @@ I am not a king, i am not a god, i am... FÁBIO, I AM A GAME DEVELEPER.
 ## Engines
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="40" height="40" />
 
-## Skill diff languages
-
-![faker-t1](https://github.com/user-attachments/assets/0fea224f-6d0a-4c30-89c7-5b6e40a53e65)
-
+## Skill diff languages ![faker-t1](https://github.com/user-attachments/assets/0fea224f-6d0a-4c30-89c7-5b6e40a53e65)
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" width="40" height="40" />
 
 ## Development environment
